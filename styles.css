@@ -9,3 +9,7 @@ h1 {
   color:navy;
   margin-left: 20px;
 }
+ 
+p {
+ font-normal: 20px;
+}
